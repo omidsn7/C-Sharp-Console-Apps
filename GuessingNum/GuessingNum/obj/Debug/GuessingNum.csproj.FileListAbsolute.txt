@@ -1,0 +1,15 @@
+C:\Users\O_sorayaee\Desktop\New folder\GuessingNum\GuessingNum\bin\Debug\GuessingNum.exe.config
+C:\Users\O_sorayaee\Desktop\New folder\GuessingNum\GuessingNum\bin\Debug\GuessingNum.exe
+C:\Users\O_sorayaee\Desktop\New folder\GuessingNum\GuessingNum\bin\Debug\GuessingNum.pdb
+C:\Users\O_sorayaee\Desktop\New folder\GuessingNum\GuessingNum\obj\Debug\GuessingNum.csproj.AssemblyReference.cache
+C:\Users\O_sorayaee\Desktop\New folder\GuessingNum\GuessingNum\obj\Debug\GuessingNum.csproj.CoreCompileInputs.cache
+C:\Users\O_sorayaee\Desktop\New folder\GuessingNum\GuessingNum\obj\Debug\GuessingNum.exe
+C:\Users\O_sorayaee\Desktop\New folder\GuessingNum\GuessingNum\obj\Debug\GuessingNum.pdb
+E:\projects\C#\WinForm\GuessingNum\GuessingNum\bin\Debug\GuessingNum.exe.config
+E:\projects\C#\WinForm\GuessingNum\GuessingNum\bin\Debug\GuessingNum.exe
+E:\projects\C#\WinForm\GuessingNum\GuessingNum\bin\Debug\GuessingNum.pdb
+E:\projects\C#\WinForm\GuessingNum\GuessingNum\obj\Debug\GuessingNum.csproj.AssemblyReference.cache
+E:\projects\C#\WinForm\GuessingNum\GuessingNum\obj\Debug\GuessingNum.csproj.SuggestedBindingRedirects.cache
+E:\projects\C#\WinForm\GuessingNum\GuessingNum\obj\Debug\GuessingNum.csproj.CoreCompileInputs.cache
+E:\projects\C#\WinForm\GuessingNum\GuessingNum\obj\Debug\GuessingNum.exe
+E:\projects\C#\WinForm\GuessingNum\GuessingNum\obj\Debug\GuessingNum.pdb

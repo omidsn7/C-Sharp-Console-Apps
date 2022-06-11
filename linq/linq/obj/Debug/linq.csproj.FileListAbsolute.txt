@@ -1,0 +1,15 @@
+C:\Users\O_sorayaee\source\repos\linq\linq\bin\Debug\linq.exe.config
+C:\Users\O_sorayaee\source\repos\linq\linq\bin\Debug\linq.exe
+C:\Users\O_sorayaee\source\repos\linq\linq\bin\Debug\linq.pdb
+C:\Users\O_sorayaee\source\repos\linq\linq\obj\Debug\linq.csprojAssemblyReference.cache
+C:\Users\O_sorayaee\source\repos\linq\linq\obj\Debug\linq.csproj.CoreCompileInputs.cache
+C:\Users\O_sorayaee\source\repos\linq\linq\obj\Debug\linq.exe
+C:\Users\O_sorayaee\source\repos\linq\linq\obj\Debug\linq.pdb
+E:\projects\C#\New folder\linq\linq\bin\Debug\linq.exe.config
+E:\projects\C#\New folder\linq\linq\bin\Debug\linq.exe
+E:\projects\C#\New folder\linq\linq\bin\Debug\linq.pdb
+E:\projects\C#\New folder\linq\linq\obj\Debug\linq.csproj.AssemblyReference.cache
+E:\projects\C#\New folder\linq\linq\obj\Debug\linq.csproj.SuggestedBindingRedirects.cache
+E:\projects\C#\New folder\linq\linq\obj\Debug\linq.csproj.CoreCompileInputs.cache
+E:\projects\C#\New folder\linq\linq\obj\Debug\linq.exe
+E:\projects\C#\New folder\linq\linq\obj\Debug\linq.pdb
